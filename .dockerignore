@@ -1,0 +1,15 @@
+# .dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+.git/
+.gitignore
+
+# If you have local caches
+.cache/
+.pytest_cache/
