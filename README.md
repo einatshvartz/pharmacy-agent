@@ -1,4 +1,4 @@
-# Pharmacy Agent (Wonderful - Home Assignment)
+# Pharmacy Agent
 
 Real-time, stateless conversational AI pharmacy agent built with FastAPI + OpenAI GPT-5.
 The agent supports Hebrew and English, streams responses, and uses internal tools for pharmacy workflows.
